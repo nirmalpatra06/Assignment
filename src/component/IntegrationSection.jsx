@@ -47,7 +47,7 @@ const IntegrationSection = () => {
           </div>
           <div className="w-fit">
             {/* Search-Box */}
-            <div className="flex items-center bg-white rounded-full lg:p-4 p-2 shadow-md w-[350px] md:w-[400px] max-w-md mx-auto">
+            <div className="flex items-center bg-white rounded-full lg:p-4 p-2 shadow-md w-[300px] md:w-[400px] max-w-md mx-auto">
               <span className="text-xl text-gray-500 mr-2">
                 <FontAwesomeIcon
                   icon={faMagnifyingGlass}
